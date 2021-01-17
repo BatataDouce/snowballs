@@ -1,4 +1,4 @@
-"STILL UNDER DEVELOPMENT
+STILL UNDER DEVELOPMENT
 
 Player 1 controls
  Movement
@@ -19,4 +19,4 @@ Player 2 controls
   J
  Reload snowballs
   L
-  "
+  
