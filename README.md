@@ -19,4 +19,10 @@
   J<br>
  Reload snowballs<br>
   L<br>
-  
+  <br>
+<i>Future updates</i><br>
+ Character selection
+ Online multiplayer
+ New UI
+ Bug fixes, of course
+ Etc...
