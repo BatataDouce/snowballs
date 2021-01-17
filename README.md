@@ -21,8 +21,8 @@
   L<br>
   <br>
 <i>Future updates</i><br>
- Character selection
- Online multiplayer
- New UI
- Bug fixes, of course
+ Character selection<br>
+ Online multiplayer<br>
+ New UI<br>
+ Bug fixes, of course<br>
  Etc...
